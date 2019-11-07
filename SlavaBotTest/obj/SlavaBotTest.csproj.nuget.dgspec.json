@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Slava\\source\\repos\\SlavaBotTest\\SlavaBotTest\\SlavaBotTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Slava\\source\\repos\\SlavaBotTest\\SlavaBotTest\\SlavaBotTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Slava\\source\\repos\\SlavaBotTest\\SlavaBotTest\\SlavaBotTest.csproj",
+        "projectName": "SlavaBotTest",
+        "projectPath": "C:\\Users\\Slava\\source\\repos\\SlavaBotTest\\SlavaBotTest\\SlavaBotTest.csproj",
+        "packagesPath": "C:\\Users\\Slava\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Slava\\source\\repos\\SlavaBotTest\\SlavaBotTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Slava\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "HttpToSocks5Proxy": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "Leaf.xNet": {
+              "target": "Package",
+              "version": "[5.1.87, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[15.0.0, )"
+            },
+            "xNetStandard": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

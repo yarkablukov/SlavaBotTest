@@ -1,0 +1,11 @@
+C:\Users\Slava\source\repos\SlavaBotTest\SlavaBotTest\bin\Debug\netcoreapp2.1\SlavaBotTest.deps.json
+C:\Users\Slava\source\repos\SlavaBotTest\SlavaBotTest\bin\Debug\netcoreapp2.1\SlavaBotTest.runtimeconfig.json
+C:\Users\Slava\source\repos\SlavaBotTest\SlavaBotTest\bin\Debug\netcoreapp2.1\SlavaBotTest.runtimeconfig.dev.json
+C:\Users\Slava\source\repos\SlavaBotTest\SlavaBotTest\bin\Debug\netcoreapp2.1\SlavaBotTest.dll
+C:\Users\Slava\source\repos\SlavaBotTest\SlavaBotTest\obj\Debug\netcoreapp2.1\SlavaBotTest.csprojAssemblyReference.cache
+C:\Users\Slava\source\repos\SlavaBotTest\SlavaBotTest\obj\Debug\netcoreapp2.1\SlavaBotTest.csproj.CoreCompileInputs.cache
+C:\Users\Slava\source\repos\SlavaBotTest\SlavaBotTest\obj\Debug\netcoreapp2.1\SlavaBotTest.AssemblyInfoInputs.cache
+C:\Users\Slava\source\repos\SlavaBotTest\SlavaBotTest\obj\Debug\netcoreapp2.1\SlavaBotTest.AssemblyInfo.cs
+C:\Users\Slava\source\repos\SlavaBotTest\SlavaBotTest\bin\Debug\netcoreapp2.1\SlavaBotTest.pdb
+C:\Users\Slava\source\repos\SlavaBotTest\SlavaBotTest\obj\Debug\netcoreapp2.1\SlavaBotTest.dll
+C:\Users\Slava\source\repos\SlavaBotTest\SlavaBotTest\obj\Debug\netcoreapp2.1\SlavaBotTest.pdb
